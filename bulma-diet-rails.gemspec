@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |gem|
-  gem.name          = 'bulma-rails-diet'
+  gem.name          = 'bulma-diet-rails'
   gem.version       = '0.1'
   gem.authors       = ["Tovi Newman"]
   gem.email         = ["deartovi@gmail.com"]
